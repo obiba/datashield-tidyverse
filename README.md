@@ -1,7 +1,7 @@
 # DataSHIELD Tidyverse Python Client
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-available-lightgrey?logo=githubactions)](https://github.com/obiba/datashield-tidyverse/actions)
-[![PyPI version](https://img.shields.io/pypi/v/datashield-tidyverse)](https://pypi.org/project/datashield-tidyverse/)
+[![GitHub Actions](https://github.com/obiba/datashield-tidyverse/actions/workflows/ci.yml/badge.svg)](https://github.com/obiba/datashield-tidyverse/actions)
+[![PyPI version](https://img.shields.io/pypi/v/datashield-tidyverse.svg)](https://pypi.org/project/datashield-tidyverse/)
 
 This Python package ports the [dsTidyverseClient R package](https://github.com/molgenis/ds-tidyverse-client) and works with the [DataSHIELD Python API](https://github.com/datashield/datashield-python) to perform data-shaping operations in a DataSHIELD environment.
 
